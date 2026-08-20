@@ -1,5 +1,5 @@
 return {
-	KernelEnabled = true,
+	KernelEnabled = false,
 	PremiumMode = true,
 	PremiumKey = "VIP-VQTR-7M-4-K-X9B5L",
 	OpenIcon = "rbxassetid://106423297301247",
